@@ -123,6 +123,7 @@ vendor.mm.enable.qcom_parser=16777207
 persist.mm.enable.prefetch=true
 
 # SSR
+persist.vendor.ssr.enable_ramdumps=1
 persist.vendor.ssr.restart_level=ALL_ENABLE
 
 # ULMK properties
