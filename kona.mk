@@ -102,7 +102,7 @@ PRODUCT_PACKAGES += \
     libcamera2ndk_vendor\
     android.hardware.camera.provider@2.4-impl \
     android.hardware.camera.provider@2.4-service_64 \
-    Snap \
+    CameraGo \
     vendor.qti.hardware.camera.postproc@1.0.vendor
 
 # Charger
