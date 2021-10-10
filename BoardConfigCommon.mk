@@ -104,6 +104,7 @@ ifeq ($(HOST_OS),linux)
     WITH_DEXPREOPT ?= true
   endif
 endif
+TARGET_USES_VULKAN := true
 
 # DRM
 TARGET_ENABLE_MEDIADRM_64 := true
