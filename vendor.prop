@@ -194,6 +194,9 @@ persist.vendor.calisar.times=255
 # Seamless transfer
 sys.fflag.override.settings_seamless_transfer=true
 
+# System
+persist.sys.binary_xml=false
+
 # SoC
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SM8250
