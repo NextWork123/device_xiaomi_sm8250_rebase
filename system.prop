@@ -66,7 +66,7 @@ persist.dbg.wfc_avail_ovr=1
 
 # IOP
 vendor.iop.enable_prefetch_ofr=1
-vendor.iop.enable_uxe=0
+vendor.iop.enable_uxe=1
 
 # Memory optimizations
 ro.vendor.qti.sys.fw.bservice_enable=true
