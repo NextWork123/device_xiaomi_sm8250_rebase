@@ -198,7 +198,7 @@ sys.fflag.override.settings_seamless_transfer=true
 persist.sys.binary_xml=false
 
 # SoC
-ro.soc.manufacturer=Qualcomm
+ro.soc.manufacturer=QTI
 ro.soc.model=SM8250
 
 # Wifi
