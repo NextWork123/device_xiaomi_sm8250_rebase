@@ -117,9 +117,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     vendor.display.disable_scaler=0 \
     vendor.display.disable_excl_rect=0 \
     vendor.display.disable_excl_rect_partial_fb=1 \
+    vendor.display.comp_mask=0 \
     vendor.display.enable_posted_start_dyn=1 \
     vendor.display.enable_optimize_refresh=1 \
-    vendor.display.use_smooth_motion=1 \
+    vendor.display.use_smooth_motion=1\
     vendor.display.comp_mask=2 \
     vendor.display.qdcm.mode_combine=1
 
