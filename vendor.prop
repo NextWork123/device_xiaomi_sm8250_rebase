@@ -207,3 +207,7 @@ ro.hardware.wlan.dbs=2
 ro.hardware.wlan.mimo=1
 ro.hardware.wlan.vendor=qcom
 ro.hardware.wlan.chip=639x
+
+# Hwui
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
